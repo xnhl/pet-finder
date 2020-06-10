@@ -1,0 +1,1492 @@
+{
+  "animals": [
+    {
+      "id": 47487673,
+      "organization_id": "VA762",
+      "url": "https:\/\/www.petfinder.com\/dog\/cooper-47487673\/va\/haymarket\/gray-face-acres-va762\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Shih Tzu",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Apricot \/ Beige",
+        "secondary": "White \/ Cream",
+        "tertiary": null
+      },
+      "age": "Senior",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Cooper",
+      "description": "Cooper the Shih Tzu is an independent older man.  He may be 13, but he is still full of life....",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487673\/2\/?bust=1582830595\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487673\/2\/?bust=1582830595\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487673\/2\/?bust=1582830595\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487673\/2\/?bust=1582830595"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487673\/1\/?bust=1582830593\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487673\/1\/?bust=1582830593\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487673\/1\/?bust=1582830593\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487673\/1\/?bust=1582830593"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487673\/3\/?bust=1582830597\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487673\/3\/?bust=1582830597\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487673\/3\/?bust=1582830597\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487673\/3\/?bust=1582830597"
+        }
+      ],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:23:09+0000",
+      "published_at": "2020-02-27T19:23:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "georgiadodson90@yahoo.com",
+        "phone": "(240) 464-1545",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Haymarket",
+          "state": "VA",
+          "postcode": "20169",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487673"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/va762"
+        }
+      }
+    },
+    {
+      "id": 47487761,
+      "organization_id": "MI68",
+      "url": "https:\/\/www.petfinder.com\/dog\/missy-47487761\/mi\/rochester-hills\/michigan-humane-society-rochester-hills-center-for-animal-care-mi68\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Missy",
+      "description": "Personality: Action Packed Dog - I am ready for action. I love to play for long periods of time. I...",
+      "photos": [],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:23:01+0000",
+      "published_at": "2020-02-27T19:23:01+0000",
+      "distance": null,
+      "contact": {
+        "email": "arc@michiganhumane.org",
+        "phone": "1-866-648-6263 Provide Pet ID # when calling",
+        "address": {
+          "address1": "3600 W Auburn Road",
+          "address2": null,
+          "city": "Rochester Hills",
+          "state": "MI",
+          "postcode": "48309",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487761"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/mi68"
+        }
+      }
+    },
+    {
+      "id": 47487737,
+      "organization_id": "NE83",
+      "url": "https:\/\/www.petfinder.com\/dog\/emmy-47487737\/ne\/auburn\/hearts-united-for-animals-ne83\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Schnauzer",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Emmy",
+      "description": "Emmy was pulled from a kill shelter in TX and flown to HUA by our wonderfully kind friends with PilotsNPaws....",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487737\/1\/?bust=1582831274\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487737\/1\/?bust=1582831274\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487737\/1\/?bust=1582831274\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487737\/1\/?bust=1582831274"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487737\/2\/?bust=1582831286\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487737\/2\/?bust=1582831286\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487737\/2\/?bust=1582831286\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487737\/2\/?bust=1582831286"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487737\/3\/?bust=1582831296\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487737\/3\/?bust=1582831296\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487737\/3\/?bust=1582831296\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487737\/3\/?bust=1582831296"
+        }
+      ],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:22:10+0000",
+      "published_at": "2020-02-27T19:22:10+0000",
+      "distance": null,
+      "contact": {
+        "email": "hua@hua.org",
+        "phone": "402-274-3679",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Auburn",
+          "state": "NE",
+          "postcode": "68305",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487737"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ne83"
+        }
+      }
+    },
+    {
+      "id": 47487753,
+      "organization_id": "ME44",
+      "url": "https:\/\/www.petfinder.com\/dog\/wilbur-47487753\/me\/paris\/responsible-pet-care-of-oxford-hills-me44\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Hound",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "WILBUR",
+      "description": "Wilbur is a one year old hound mix with plenty of potential. Are those big, brown eyes calling to you?...",
+      "photos": [],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:22:03+0000",
+      "published_at": "2020-02-27T19:22:03+0000",
+      "distance": null,
+      "contact": {
+        "email": "responsiblepetcare@yahoo.com",
+        "phone": "(207) 743-8679",
+        "address": {
+          "address1": "9 Swallow Road",
+          "address2": null,
+          "city": "Paris",
+          "state": "ME",
+          "postcode": "04271",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487753"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/me44"
+        }
+      }
+    },
+    {
+      "id": 47487754,
+      "organization_id": "ME44",
+      "url": "https:\/\/www.petfinder.com\/dog\/orville-47487754\/me\/paris\/responsible-pet-care-of-oxford-hills-me44\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Spitz",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "ORVILLE",
+      "description": "Look at his happy face. Can you see yourself walking down the street with this handsome boy? Orville is a...",
+      "photos": [],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:22:03+0000",
+      "published_at": "2020-02-27T19:22:03+0000",
+      "distance": null,
+      "contact": {
+        "email": "responsiblepetcare@yahoo.com",
+        "phone": "(207) 743-8679",
+        "address": {
+          "address1": "9 Swallow Road",
+          "address2": null,
+          "city": "Paris",
+          "state": "ME",
+          "postcode": "04271",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487754"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/me44"
+        }
+      }
+    },
+    {
+      "id": 47487755,
+      "organization_id": "ME44",
+      "url": "https:\/\/www.petfinder.com\/dog\/mischief-47487755\/me\/paris\/responsible-pet-care-of-oxford-hills-me44\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Australian Cattle Dog \/ Blue Heeler",
+        "secondary": "Border Collie",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "MISCHIEF",
+      "description": "Mischief is two years old. He is a heeler\/border collie mix with curly fur. He is a sweet pup and...",
+      "photos": [],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:22:03+0000",
+      "published_at": "2020-02-27T19:22:03+0000",
+      "distance": null,
+      "contact": {
+        "email": "responsiblepetcare@yahoo.com",
+        "phone": "(207) 743-8679",
+        "address": {
+          "address1": "9 Swallow Road",
+          "address2": null,
+          "city": "Paris",
+          "state": "ME",
+          "postcode": "04271",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487755"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/me44"
+        }
+      }
+    },
+    {
+      "id": 47487752,
+      "organization_id": "ME44",
+      "url": "https:\/\/www.petfinder.com\/dog\/tika-47487752\/me\/paris\/responsible-pet-care-of-oxford-hills-me44\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "TIKA",
+      "description": "You probably have heard the term \u0026amp;#39;Class clown.\u0026amp;#39; Tika is our kennel clown. She is a year old and full...",
+      "photos": [],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:22:02+0000",
+      "published_at": "2020-02-27T19:22:02+0000",
+      "distance": null,
+      "contact": {
+        "email": "responsiblepetcare@yahoo.com",
+        "phone": "(207) 743-8679",
+        "address": {
+          "address1": "9 Swallow Road",
+          "address2": null,
+          "city": "Paris",
+          "state": "ME",
+          "postcode": "04271",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487752"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/me44"
+        }
+      }
+    },
+    {
+      "id": 47487745,
+      "organization_id": "NY1270",
+      "url": "https:\/\/www.petfinder.com\/dog\/sammie-jo-star-foster-needed-star-47487745\/ny\/new-york\/pupstarz-rescue-ny1270\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Redbone Coonhound",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Red \/ Chestnut \/ Orange",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Sammie Jo *FOSTER NEEDED*",
+      "description": "Meet Sammie Jo, a 10 month old, 47 pound, wonderful Redbone mix. This endearing pup is soft, sweet, loving, and...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487745\/1\/?bust=1582831306\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487745\/1\/?bust=1582831306\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487745\/1\/?bust=1582831306\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487745\/1\/?bust=1582831306"
+        }
+      ],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:21:56+0000",
+      "published_at": "2020-02-27T19:21:56+0000",
+      "distance": null,
+      "contact": {
+        "email": "rescue@pupstarzrescue.org",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "New York",
+          "state": "NY",
+          "postcode": "10010",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487745"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ny1270"
+        }
+      }
+    },
+    {
+      "id": 47487749,
+      "organization_id": "CA39",
+      "url": "https:\/\/www.petfinder.com\/dog\/sparky-47487749\/ca\/burlingame\/peninsula-humane-society-and-spca-ca39\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "German Shepherd Dog",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Sparky",
+      "description": "Hello! My name is Sparky and I\u0026amp;#39;m a neutered, 1 year old German shepherd that currently weighs about 55 lbs!...",
+      "photos": [],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:21:20+0000",
+      "published_at": "2020-02-27T19:21:20+0000",
+      "distance": null,
+      "contact": {
+        "email": "adoptinquire@peninsulahumanesociety.org",
+        "phone": "650-340-7022",
+        "address": {
+          "address1": "1450 Rollins Road",
+          "address2": null,
+          "city": "Burlingame",
+          "state": "CA",
+          "postcode": "94010",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487749"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca39"
+        }
+      }
+    },
+    {
+      "id": 47487722,
+      "organization_id": "NY1426",
+      "url": "https:\/\/www.petfinder.com\/dog\/nox-47487722\/ny\/jeffersonville\/once-lost-now-found-ny1426\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Merle (Red)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": ["loving", "playful", "active", "smart"],
+      "name": "NOX",
+      "description": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/5\/?bust=1582831144\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/5\/?bust=1582831144\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/5\/?bust=1582831144\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/5\/?bust=1582831144"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/1\/?bust=1582831095\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/1\/?bust=1582831095\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/1\/?bust=1582831095\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/1\/?bust=1582831095"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/2\/?bust=1582831109\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/2\/?bust=1582831109\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/2\/?bust=1582831109\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/2\/?bust=1582831109"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/4\/?bust=1582831139\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/4\/?bust=1582831139\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/4\/?bust=1582831139\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/4\/?bust=1582831139"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/6\/?bust=1582831158\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/6\/?bust=1582831158\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/6\/?bust=1582831158\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/6\/?bust=1582831158"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/3\/?bust=1582831176\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/3\/?bust=1582831176\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/3\/?bust=1582831176\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487722\/3\/?bust=1582831176"
+        }
+      ],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:20:44+0000",
+      "published_at": "2020-02-27T19:20:44+0000",
+      "distance": null,
+      "contact": {
+        "email": "embreihof@yahoo.com",
+        "phone": "6318964708",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Jeffersonville",
+          "state": "NY",
+          "postcode": "12748",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487722"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ny1426"
+        }
+      }
+    },
+    {
+      "id": 47487738,
+      "organization_id": "PA630",
+      "url": "https:\/\/www.petfinder.com\/dog\/coco-b-47487738\/pa\/winfield\/haven-to-home-canine-rescue-pa630\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Beagle",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Coco B",
+      "description": "You can fill out an adoption application online on our official website.Coco is a very sweet female beagle -- approximately...",
+      "photos": [],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:20:05+0000",
+      "published_at": "2020-02-27T19:20:05+0000",
+      "distance": null,
+      "contact": {
+        "email": "haventohome@gmail.com",
+        "phone": "     ",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Winfield",
+          "state": "PA",
+          "postcode": "17889",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487738"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/pa630"
+        }
+      }
+    },
+    {
+      "id": 47487730,
+      "organization_id": "NE83",
+      "url": "https:\/\/www.petfinder.com\/dog\/tobey-47487730\/ne\/auburn\/hearts-united-for-animals-ne83\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Chihuahua",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Tobey",
+      "description": "Sweet little Tobey lost his home and he was quite upset about that. We moved him into the office where...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487730\/1\/?bust=1582831121\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487730\/1\/?bust=1582831121\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487730\/1\/?bust=1582831121\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487730\/1\/?bust=1582831121"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487730\/2\/?bust=1582831138\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487730\/2\/?bust=1582831138\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487730\/2\/?bust=1582831138\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487730\/2\/?bust=1582831138"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487730\/3\/?bust=1582831150\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487730\/3\/?bust=1582831150\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487730\/3\/?bust=1582831150\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487730\/3\/?bust=1582831150"
+        }
+      ],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:19:35+0000",
+      "published_at": "2020-02-27T19:19:35+0000",
+      "distance": null,
+      "contact": {
+        "email": "hua@hua.org",
+        "phone": "402-274-3679",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Auburn",
+          "state": "NE",
+          "postcode": "68305",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487730"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ne83"
+        }
+      }
+    },
+    {
+      "id": 47487735,
+      "organization_id": "WA414",
+      "url": "https:\/\/www.petfinder.com\/dog\/tika-47487735\/wa\/olalla\/collar-of-hope-wa414\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Dachshund",
+        "secondary": "Boston Terrier",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Tika",
+      "description": "You can fill out an adoption application online on our official website.\nOur website has information about our rescue, adoption...",
+      "photos": [],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:19:02+0000",
+      "published_at": "2020-02-27T19:19:02+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@collarofhope.org",
+        "phone": "(253) 466-4634",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Olalla",
+          "state": "WA",
+          "postcode": "98359",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487735"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/wa414"
+        }
+      }
+    },
+    {
+      "id": 47487734,
+      "organization_id": "CA139",
+      "url": "https:\/\/www.petfinder.com\/dog\/thor-47487734\/ca\/mentone\/barc-ca139\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Thor",
+      "description": "Thor is a Male lab\/healer mix puppy born 12\/16\/19Thor is a beautiful labrador retriever\/healer mix puppy who was born on...",
+      "photos": [],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:18:39+0000",
+      "published_at": "2020-02-27T19:18:39+0000",
+      "distance": null,
+      "contact": {
+        "email": "adoptions@barconline.com",
+        "phone": "951-845-1513",
+        "address": {
+          "address1": "P O Box 744",
+          "address2": null,
+          "city": "Mentone",
+          "state": "CA",
+          "postcode": "92359",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487734"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca139"
+        }
+      }
+    },
+    {
+      "id": 47487408,
+      "organization_id": "MN432",
+      "url": "https:\/\/www.petfinder.com\/dog\/jj-47487408\/mn\/minneapolis\/heart-of-a-border-collie-rescue-mn432\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Australian Shepherd",
+        "secondary": "Collie",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tricolor (Brown, Black, \u0026 White)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "JJ",
+      "description": "JJ was born around 12\/24\/19. We believe he is a Shepherd\/Aussie\/collie mix who should mature between 45-55 lbs. \n\nJJ is...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/5\/?bust=1582829702\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/5\/?bust=1582829702\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/5\/?bust=1582829702\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/5\/?bust=1582829702"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/1\/?bust=1582829689\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/1\/?bust=1582829689\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/1\/?bust=1582829689\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/1\/?bust=1582829689"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/3\/?bust=1582829771\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/3\/?bust=1582829771\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/3\/?bust=1582829771\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/3\/?bust=1582829771"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/4\/?bust=1582829701\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/4\/?bust=1582829701\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/4\/?bust=1582829701\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/4\/?bust=1582829701"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/2\/?bust=1582829727\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/2\/?bust=1582829727\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/2\/?bust=1582829727\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/2\/?bust=1582829727"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/6\/?bust=1582829741\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/6\/?bust=1582829741\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/6\/?bust=1582829741\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487408\/6\/?bust=1582829741"
+        }
+      ],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:18:22+0000",
+      "published_at": "2020-02-27T19:18:22+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@hoabcr.org",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Minneapolis",
+          "state": "MN",
+          "postcode": "55439",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487408"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/mn432"
+        }
+      }
+    },
+    {
+      "id": 47487697,
+      "organization_id": "NE83",
+      "url": "https:\/\/www.petfinder.com\/dog\/phinneas-47487697\/ne\/auburn\/hearts-united-for-animals-ne83\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Maltipoo",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Senior",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Phinneas",
+      "description": "Phinneas was pulled from a run-down pound by a wonderfully kind HUA prior adopter that knew they had to get...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487697\/1\/?bust=1582830907\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487697\/1\/?bust=1582830907\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487697\/1\/?bust=1582830907\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487697\/1\/?bust=1582830907"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487697\/2\/?bust=1582830930\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487697\/2\/?bust=1582830930\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487697\/2\/?bust=1582830930\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487697\/2\/?bust=1582830930"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487697\/3\/?bust=1582831009\u0026width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487697\/3\/?bust=1582831009\u0026width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487697\/3\/?bust=1582831009\u0026width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/47487697\/3\/?bust=1582831009"
+        }
+      ],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:17:05+0000",
+      "published_at": "2020-02-27T19:17:05+0000",
+      "distance": null,
+      "contact": {
+        "email": "jill@hua.org",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Auburn",
+          "state": "NE",
+          "postcode": "68305",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487697"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ne83"
+        }
+      }
+    },
+    {
+      "id": 47487723,
+      "organization_id": "CO91",
+      "url": "https:\/\/www.petfinder.com\/dog\/thistle-47487723\/co\/golden\/foothills-animal-shelter-co91\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Thistle",
+      "description": "Howdy, I\u0026amp;#39;m Thistle! I\u0026amp;#39;m a sweet girl looking for a loving home and lots of attention. I\u0026amp;#39;m excited to learn...",
+      "photos": [],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:15:58+0000",
+      "published_at": "2020-02-27T19:15:58+0000",
+      "distance": null,
+      "contact": {
+        "email": "reception@fas4pets.org",
+        "phone": "(303) 278-7575",
+        "address": {
+          "address1": "580 McIntyre St (new)",
+          "address2": null,
+          "city": "Golden",
+          "state": "CO",
+          "postcode": "80401",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487723"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/co91"
+        }
+      }
+    },
+    {
+      "id": 47487725,
+      "organization_id": "CO91",
+      "url": "https:\/\/www.petfinder.com\/dog\/gus-47487725\/co\/golden\/foothills-animal-shelter-co91\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Gus",
+      "description": "Hi, I\u0026amp;#39;m Gus! An active, high energy home would be perfect for me! I am looking for a loving lap...",
+      "photos": [],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:15:58+0000",
+      "published_at": "2020-02-27T19:15:58+0000",
+      "distance": null,
+      "contact": {
+        "email": "reception@fas4pets.org",
+        "phone": "(303) 278-7575",
+        "address": {
+          "address1": "580 McIntyre St (new)",
+          "address2": null,
+          "city": "Golden",
+          "state": "CO",
+          "postcode": "80401",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487725"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/co91"
+        }
+      }
+    },
+    {
+      "id": 47487726,
+      "organization_id": "CO91",
+      "url": "https:\/\/www.petfinder.com\/dog\/moose-47487726\/co\/golden\/foothills-animal-shelter-co91\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pug",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Moose",
+      "description": "Hi! I\u0026amp;#39;m Moose! I\u0026amp;#39;m a little shy at first, but I warm up quickly! I\u0026amp;#39;m looking for a family with...",
+      "photos": [],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:15:58+0000",
+      "published_at": "2020-02-27T19:15:58+0000",
+      "distance": null,
+      "contact": {
+        "email": "reception@fas4pets.org",
+        "phone": "(303) 278-7575",
+        "address": {
+          "address1": "580 McIntyre St (new)",
+          "address2": null,
+          "city": "Golden",
+          "state": "CO",
+          "postcode": "80401",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487726"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/co91"
+        }
+      }
+    },
+    {
+      "id": 47487721,
+      "organization_id": "TX403",
+      "url": "https:\/\/www.petfinder.com\/dog\/peach-47487721\/tx\/houston\/houston-spca-tx403\/?referrer_id=268204e1-ae3d-40a3-9a25-2f7440a7e41a",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Shepherd",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Peach",
+      "description": "Primary Color: Tan Weight: 42.5lbs Age: 3yrs 0mths 0wks Animal has been Spayed",
+      "photos": [],
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2020-02-27T19:15:51+0000",
+      "published_at": "2020-02-27T19:15:51+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@houstonspca.org",
+        "phone": "(713) 869-7722",
+        "address": {
+          "address1": "7007 Old Katy Rd",
+          "address2": null,
+          "city": "Houston",
+          "state": "TX",
+          "postcode": "77024",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/47487721"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/tx403"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 110043,
+    "current_page": 1,
+    "total_pages": 5503,
+    "_links": {
+      "next": {
+        "href": "\/v2\/animals?type=dog\u0026page=2"
+      }
+    }
+  }
+}
