@@ -2,7 +2,6 @@
 	<div id="wrapper">
 		<SearchBox @search-submit="search" />
 		<div id="intro">
-			<!-- <img src="" alt="" class="intro-image"> -->
 			<div class="intro-text">Welcome!</div>
 			<div class="intro-text">Let's find pets in your area.</div>
 			<div class="intro-text">Use the search box to begin.</div>
@@ -15,7 +14,6 @@
 
 <script>
 import moment from 'moment'
-// import data from '@/assets/res.json'
 import Animal from '@/components/Animal'
 import SearchBox from '@/components/SearchBox'
 export default {
@@ -23,7 +21,6 @@ export default {
 	data() {
 		return {
 			count: 1,
-			// animals: data.animals,
 			animals: []
 		}
 	},
@@ -32,9 +29,7 @@ export default {
 			let intro = document.getElementById("intro");
 			intro.classList.add("hide");
 			let key = process.env.mikey;
-			// let key = "vViQcHxBnMGGUfgSCU4zf3L7gfVsEfeNOpvU4KX2ss5mDWs6P7";
 			let secret = process.env.miceykrit;
-			// let secret = "3WsKg2sQubocNWVrd38cMDCHd3tjFHwqtLeGJX19";
 			let existingToken = localStorage.getItem("petfinder_token");
 			if (existingToken && existingToken !== null) {
 				try {
@@ -94,9 +89,6 @@ export default {
 			}
 		}
 	}
-	// async beforeMount() {
-		// this.search()
-	// }
 }
 </script>
 

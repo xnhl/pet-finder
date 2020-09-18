@@ -99,23 +99,23 @@
 export default {
 	methods: {
 		searchSubmit: async function (e) {
-			let zipcode = document.getElementById("zip-code");
-			let zipcodeValue = (zipcode.value && zipcode.value !== "") ? `&location=${zipcode.value}` : "";
-			let distance = document.getElementById("distance");
-			let distanceValue = (distance.value && distance.value !== "") ? `&distance=${distance.value}` : "";
-			let type = document.getElementById("type");
-			let typeValue = type.options[type.selectedIndex].value !== "" ? `&type=${type.options[type.selectedIndex].value}` : "";
-			let sex = document.getElementById("sex");
-			let sexValue = sex.options[sex.selectedIndex].value !== "" ? `&gender=${sex.options[sex.selectedIndex].value}` : "";
-			let size = document.getElementById("size");
-			let sizeValue = size.options[size.selectedIndex].value !== "" ? `&size=${size.options[size.selectedIndex].value}` : "";
-			let age = document.getElementById("age");
-			let ageValue = age.options[age.selectedIndex].value !== "" ? `&age=${age.options[age.selectedIndex].value}` : "";
-			let coat = document.getElementById("coat");
-			let coatValue = coat.options[coat.selectedIndex].value !== "" ? `&coat=${coat.options[coat.selectedIndex].value}` : "";
-			let status = document.getElementById("status");
-			let statusValue = status.options[status.selectedIndex].value !== "" ? `&status=${status.options[status.selectedIndex].value}` : "";
-			let searchOptions = `${zipcodeValue}${distanceValue}${typeValue}${sexValue}${sizeValue}${ageValue}${coatValue}${statusValue}`;
+			let zipcode = document.getElementById("zip-code")
+			let zipcodeValue = (zipcode.value && zipcode.value !== "") ? `&location=${zipcode.value}` : ""
+			let distance = document.getElementById("distance")
+			let distanceValue = (distance.value && distance.value !== "") ? `&distance=${distance.value}` : ""
+			let type = document.getElementById("type")
+			let typeValue = type.options[type.selectedIndex].value !== "" ? `&type=${type.options[type.selectedIndex].value}` : ""
+			let sex = document.getElementById("sex")
+			let sexValue = sex.options[sex.selectedIndex].value !== "" ? `&gender=${sex.options[sex.selectedIndex].value}` : ""
+			let size = document.getElementById("size")
+			let sizeValue = size.options[size.selectedIndex].value !== "" ? `&size=${size.options[size.selectedIndex].value}` : ""
+			let age = document.getElementById("age")
+			let ageValue = age.options[age.selectedIndex].value !== "" ? `&age=${age.options[age.selectedIndex].value}` : ""
+			let coat = document.getElementById("coat")
+			let coatValue = coat.options[coat.selectedIndex].value !== "" ? `&coat=${coat.options[coat.selectedIndex].value}` : ""
+			let status = document.getElementById("status")
+			let statusValue = status.options[status.selectedIndex].value !== "" ? `&status=${status.options[status.selectedIndex].value}` : ""
+			let searchOptions = `${zipcodeValue}${distanceValue}${typeValue}${sexValue}${sizeValue}${ageValue}${coatValue}${statusValue}`
 			this.$emit("search-submit", searchOptions.substring(1))
 		}
 	}

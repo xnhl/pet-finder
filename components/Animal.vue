@@ -105,23 +105,23 @@ export default {
 		_links: function() {
 		},
 		description: function() {
-			const Entities = require('html-entities').AllHtmlEntities;
-			const entities = new Entities();
+			const Entities = require('html-entities').AllHtmlEntities
+			const entities = new Entities()
 			return entities.decode(entities.decode(this.info.description))
 		},
 		published_at: function() {
-			const moment = require('moment');
-			let rightNow = moment();
-			let published = moment(this.info.published_at);
-			let howLong = rightNow.diff(published, 'days');
-			let publishedFormatted = moment(this.info.published_at).format('LL');
+			const moment = require('moment')
+			let rightNow = moment()
+			let published = moment(this.info.published_at)
+			let howLong = rightNow.diff(published, 'days')
+			let publishedFormatted = moment(this.info.published_at).format('LL')
 			return howLong > 1 ? `Last Update: ${publishedFormatted} (${howLong} days ago)` : howLong == 1 ? `Last Update: ${publishedFormatted} (${howLong} day ago)` : howLong == 0 ? `Last Update: ${publishedFormatted} (Today)` : null
 		},
 		name: function() {
 			const toTitleCase = (str) => {
-				str = str.toLowerCase().split(' ');
+				str = str.toLowerCase().split(' ')
 				for (var i = 0; i < str.length; i++) {
-					str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1);
+					str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1)
 				}
 				return str.join(' ')
 			}
@@ -129,21 +129,21 @@ export default {
 		},
 		status: function() {
 			const toTitleCase = (str) => {
-				str = str.toLowerCase().split(' ');
+				str = str.toLowerCase().split(' ')
 				for (var i = 0; i < str.length; i++) {
-					str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1);
+					str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1)
 				}
 				return str.join(' ')
 			}
 			return toTitleCase(this.info.status)
 		},
 		attributes: function() {
-			let keys = Object.keys(this.info.attributes);
-			let keysLen = keys.length;
-			let keysSpaced = keys.map(key => key.replace("_", " "));
-			let newAttrs = [];
+			let keys = Object.keys(this.info.attributes)
+			let keysLen = keys.length
+			let keysSpaced = keys.map(key => key.replace("_", " "))
+			let newAttrs = []
 			for (let i = 0; i < keysLen; i++) {
-				let newKey = keysSpaced[i];
+				let newKey = keysSpaced[i]
 				newAttrs[i] = {
 					newKey: this.info.attributes[i]
 				}
@@ -151,27 +151,27 @@ export default {
 			return newAttrs
 		},
 		address: function() {
-			let address1 = this.info.contact.address.address1 ? this.info.contact.address.address1 : "";
-			let address2 = this.info.contact.address.address2 ? this.info.contact.address.address2 : "";
-			let city = this.info.contact.address.city ? this.info.contact.address.city : "";
-			let state = this.info.contact.address.state ? this.info.contact.address.state : "";
-			let postcode = this.info.contact.address.postcode ? this.info.contact.address.postcode : "";
-			let country = this.info.contact.address.country ? this.info.contact.address.country : "";
+			let address1 = this.info.contact.address.address1 ? this.info.contact.address.address1 : ""
+			let address2 = this.info.contact.address.address2 ? this.info.contact.address.address2 : ""
+			let city = this.info.contact.address.city ? this.info.contact.address.city : ""
+			let state = this.info.contact.address.state ? this.info.contact.address.state : ""
+			let postcode = this.info.contact.address.postcode ? this.info.contact.address.postcode : ""
+			let country = this.info.contact.address.country ? this.info.contact.address.country : ""
 			return (this.info.contact.address.address1 || this.info.contact.address.address2) ? `Location: ${address1}, ${city}, ${state} ${postcode}` : ` Location: ${city}, ${state} ${postcode}`
 		},
 		phone: function() {
 			if (this.info.contact.phone && this.info.contact.phone.replace(/ /gi, "") !== "") {
-				let initial = this.info.contact.phone.replace(/[^0-9]/gi, "");
+				let initial = this.info.contact.phone.replace(/[^0-9]/gi, "")
 				if (initial.length === 10) {
-					let num1 = initial.slice(0, 3);
-					let num2 = initial.slice(3, 6);
-					let num3 = initial.slice(6);
+					let num1 = initial.slice(0, 3)
+					let num2 = initial.slice(3, 6)
+					let num3 = initial.slice(6)
 					return `Phone: (${num1})${num2}-${num3}`
 				} else if (initial.length === 11) {
-					let num0 = initial.slice(0, 1);
-					let num1 = initial.slice(1, 4);
-					let num2 = initial.slice(4, 7);
-					let num3 = initial.slice(7);
+					let num0 = initial.slice(0, 1)
+					let num1 = initial.slice(1, 4)
+					let num2 = initial.slice(4, 7)
+					let num3 = initial.slice(7)
 					return `Phone: ${num0}-${num1}-${num2}-${num3}`
 				}
 			} else return false
